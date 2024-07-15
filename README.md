@@ -1,4 +1,4 @@
 # Demo
 First Repo
 <br/>
-Aurthor-Arpit Mishra
+Author-Arpit Mishra
